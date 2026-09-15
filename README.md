@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I'm Aayan Ahmed
-<h3 align="center"> First-year Data Science student with a passion for building data-driven applications and exploring AI/ML</h3>
+<h3 align="center"> Second-Year Data Science student with a passion for building data-driven applications and exploring AI/ML</h3>
 
 <div align="center">
 
